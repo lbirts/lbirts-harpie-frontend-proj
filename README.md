@@ -6,7 +6,7 @@ We'll be making a React button component that interacts with an Ethereum smart c
 This project will test concepts that may be slightly or completely foreign to you. This readme provides resources to ensure that you're able to learn as you complete the project.
 
 ## INSTRUCTIONS:
-* fork `facebook/create-react-app` inside this repo, or another repo of your choosing
+* install `facebook/create-react-app` inside this repo, or another repo of your choosing
 * install MetaMask using this link: https://metamask.io/download/
 * navigate to the "Goerli Testnet" by turning on test networks: ![network-switching](./readme-images/network-switching.png)
 * install `ethers.js`
