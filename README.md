@@ -24,6 +24,8 @@ This project will test concepts that may be slightly or completely foreign to yo
 * `approve` is a state changing method, so you'll need to use a `Signer`
 * your ConnectButton function and ContractButton function will both be async functions
 * don't forget to switch to the Goerli testnet!
+* there's no need for a complete understanding of what you're working on in this project. 
+this is a difficult assignment, and complete comprehension is not an expectation
 * feel free to email Daniel at any time for questions
 
 ## LINKS:
