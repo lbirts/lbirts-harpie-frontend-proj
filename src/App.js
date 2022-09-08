@@ -7,7 +7,7 @@ import ContractButton from './components/ContractButton'
 function App() {
   const provider = new ethers.providers.Web3Provider(window.ethereum)
   const [signer, setSigner] = useState(provider.getSigner())
-  
+
   window.ethereum.on('accountsChanged', () => {
     setSigner(provider.getSigner())
   })

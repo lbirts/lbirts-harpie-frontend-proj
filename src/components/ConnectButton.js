@@ -4,8 +4,7 @@ export default function ConnectButton({ provider, setSigner }) {
 
     const connectToMetamask = async() => {
         await provider.send('eth_requestAccounts', [])
-        const signer = provider.getSigner()
-        setSigner(signer)
+        setSigner(provider.getSigner())
     }
 
 	return (
