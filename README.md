@@ -37,7 +37,8 @@ this is a difficult assignment, and complete comprehension is not an expectation
 Good luck!
 
 ## START UP:
-run the following to get the app up and running
+run the following to get the app up
+
 `npm install`
 `npm start`
 
