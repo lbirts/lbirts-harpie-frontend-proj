@@ -35,3 +35,10 @@ this is a difficult assignment, and complete comprehension is not an expectation
 * abi of contract `0xBA62...`: http://api-goerli.etherscan.io/api?module=contract&action=getabi&address=0xba62bcfcaafc6622853cca2be6ac7d845bc0f2dc&format=raw
 
 Good luck!
+
+## START UP:
+run the following to get the app up and running
+`npm install`
+`npm start`
+
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
